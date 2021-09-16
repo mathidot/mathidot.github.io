@@ -1,8 +1,7 @@
-title: the Simplex theme
-logo_img: /assets/img/icons/golasblog_logo.svg
+title: Mathiodt
 favicon: /assets/favicon.ico
-description: description
-global_tags: jekyll theme simplex golasblog responsive html5
+description: Math,Operating System,Compiler,CG
+global_tags: Operating System,Compiler and CG html5
 copyright: © Golasowski 2021
 
 sass:

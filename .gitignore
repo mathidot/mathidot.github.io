@@ -1,13 +1,18 @@
-*.gem
-.bundle
-.jekyll-cache
-.sass-cache
+# hidden files
+.*
+!.git*
+!.editorconfig
+!.nojekyll
+!.travis.yml
+
+# bundler cache
 _site
+vendor
 Gemfile.lock
-_posts
-_authors
-_category
-_data
-*.md
-assets/img/authors
-assets/posts
+
+# rubygem
+*.gem
+
+# npm dependencies
+node_modules
+package-lock.json

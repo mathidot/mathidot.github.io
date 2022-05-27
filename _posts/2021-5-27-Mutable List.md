@@ -16,7 +16,6 @@ Constraints are dictionaries that do not hold local states themselves. Their res
 
 Connectors are dictionaries that hold a current value and respond to messages that manipulate value. Constraints will not change the value of connectors directly, but instead will do so by send messages, so that the connector can notify other constraints in response to the change. In this way connector represents a number, but also encapsulates connector behavior.
 
-![image-20220504085048237](C:\Users\mathidot\AppData\Roaming\Typora\typora-user-images\image-20220504085048237.png)
 
 ```python
 from operator import add, sub

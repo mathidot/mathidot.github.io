@@ -6,7 +6,6 @@ tags : CS61A
 
 # Backus-Naur-Form
 
-![image-20220520235047177](C:\Users\mathidot\AppData\Roaming\Typora\typora-user-images\image-20220520235047177.png)
 
 ## Basic BNF
 

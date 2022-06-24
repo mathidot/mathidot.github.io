@@ -1,4 +1,4 @@
-​	xv6 takes the traditional form of `kernel`, a special program that provides services to running programs. Each running program, called a process, has memory containing instructions, data and a stack. The instructions implement the program;s computation. The data are the variables on which the computation acts. The  stack organizes the program's procedure calls.
+	xv6 takes the traditional form of `kernel`, a special program that provides services to running programs. Each running program, called a process, has memory containing instructions, data and a stack. The instructions implement the program;s computation. The data are the variables on which the computation acts. The  stack organizes the program's procedure calls.
 
 ## Process and memory
 
